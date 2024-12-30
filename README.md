@@ -1,3 +1,6 @@
+# 빌드하기
+https://blog.naver.com/ljh3047063/223708651600
+
 # PoA
 - geth-1.13.15 버전 사용중이고, geth를 /usr/bin/geth13 이름으로 사용중
 - p2p port: 30300, http port: 30301, ws port: 30302
